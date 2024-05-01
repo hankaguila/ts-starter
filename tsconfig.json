@@ -3,13 +3,11 @@
   "compilerOptions": {
     // Type Checking
     "strict": true,
-    "exactOptionalPropertyTypes": true,
     "noUncheckedIndexedAccess": true,
 
     // Modules
     "module": "nodenext",
     "resolveJsonModule": true,
-    "rootDir": "src",
 
     // Emit
     "outDir": "build",
